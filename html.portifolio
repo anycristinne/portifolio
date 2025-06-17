@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Anyelle | Web Designer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Anyelle Cristinne</h1>
+    <p>Web Designer | Criadora Visual | Exploradora Digital</p>
+    <nav>
+      <a href="#about">Sobre Mim</a>
+      <a href="#projects">Projetos</a>
+      <a href="#contact">Contato</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>Sobre Mim</h2>
+    <p>Sou uma apaixonada por design, arte e tecnologia. Crio experiências visuais com propósito e beleza. Este é meu espaço digital, onde compartilho minha trajetória e meus trabalhos favoritos.</p>
+  </section>
+
+  <section id="projects">
+    <h2>Projetos</h2>
+    <div class="project">
+      <h3>Site para Restaurante Vegano</h3>
+      <p>HTML, CSS e um toque de natureza 🌿</p>
+      <a href="#">Ver projeto</a>
+    </div>
+    <div class="project">
+      <h3>Landing Page Minimalista</h3>
+      <p>Foco em tipografia e cores suaves</p>
+      <a href="#">Ver projeto</a>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Entre em Contato</h2>
+    <p>Quer colaborar ou bater um papo? Me manda uma mensagem!</p>
+    <a href="mailto:seuemail@gmail.com">seuemail@gmail.com</a>
+  </section>
+
+  <footer>
+    <p>© 2025 Anyelle Cristinne. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
